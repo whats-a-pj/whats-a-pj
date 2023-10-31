@@ -1,6 +1,5 @@
-- 👋 Hi, I’m P.J.
-- 🌱 I’m currently learning MERN stack development through the UofU Fullstack Bootcamp
-- 👀 Outside of work & school I’m interested in finding the best vegan restaurants in Utah, spending time with my cat & reading fantastical books
+- I’m currently learning MERN stack development through the UofU Fullstack Bootcamp
+- Outside of work & school I’m interested in finding the best vegan restaurants in Utah, spending time with my cat & reading fantastical books
 - 💞️ Catch me on [LinkedIn](https://www.linkedin.com/in/p-j-rasmussen-57123b1ab) or [Instagram](https://www.linkedin.com/in/p-j-rasmussen-57123b1ab)
 
 <!---
