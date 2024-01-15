@@ -8,17 +8,18 @@ I am actively involved in contributing to various projects. Below are some of th
     <th><a href="https://github.com/tmorgan-dev/theWeb">theWeb</a></th>
     <th><a href="https://github.com/whats-a-pj/Mind-Mapper">MindMapper</a></th>
     <th><a href="https://github.com/itsmenickfromschool/animalsWow02">Animals, Wow!</a></th>
-    <th><a href="https://github.com/EsotericZ/PSZReviews">PS Game Reviews</a></th>
+    <th><a href="https://github.com/EsotericZ/PSZReviews">PS Reviews</a></th>
+    <th><a href="https://github.com/whats-a-pj/To-Do-List">Todo List</a></th>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <a href="https://github.com/tmorgan-dev/theWeb">
         <img src="https://github.com/tmorgan-dev/theWeb/blob/main/client/src/assets/images/SPODER.png" width="100px;" alt="Tammy the Spoder"/>
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://github.com/whats-a-pj/Mind-Mapper">
-        <img src="https://github.com/whats-a-pj/Mind-Mapper/blob/main/public/css/assets/Brain.png" width="100px;" alt="Brain Thought Bubble"/>
+        <img src="https://github.com/whats-a-pj/Mind-Mapper/blob/main/public/css/assets/Brain.png" width="125px;" alt="Brain Thought Bubble"/>
       </a>
     </td>
     <td align="center">
@@ -29,6 +30,11 @@ I am actively involved in contributing to various projects. Below are some of th
         <td align="center">
       <a href="https://github.com/EsotericZ/PSZReviews">
         <img src="https://github.com/EsotericZ/PSZReviews/blob/main/public/psn.png" width="75px;" alt="PlayStation Logo"/>
+      </a>
+    </td>
+        <td align="center">
+      <a href="https://github.com/whats-a-pj/To-Do-List">
+        <img src="https://github.com/whats-a-pj/whats-a-pj/assets/132323565/c0f20f41-da89-4140-ac84-da0ba59e5987" width="80px;" alt="Notepad n Pencil"/>
       </a>
     </td>
   </tr>
