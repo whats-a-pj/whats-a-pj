@@ -41,7 +41,7 @@ I am actively involved in contributing to various projects. Below are some of th
 </table>
 
 ## Experience & Education
-I have gathered substantial experience working on numerous web development projects, specifically focusing on the MERN stack. My journey in this field has been marked by continuous learning and application of the latest technologies in real-world scenarios, I have previous experience dabbling in front-end technologies dating back to 2018. In terms of education, I hold a certificate in Full-Stack Web Development from the University of Utah/EdX2U Bootcamp, where I honed my skills in software development and web technologies.
+I have gathered substantial experience working on numerous web development projects, specifically focusing on the MERN stack. My journey in this field has been marked by continuous learning and application of the latest technologies in real-world scenarios, I have previous experience dabbling in front-end technologies including but not limited to WordPress & multiple Adobe applications dating back to 2018. In terms of education, I hold a certificate in Full-Stack Web Development from the University of Utah/EdX2U Bootcamp, where I honed my skills in software development and web technologies.
 
 ## Socials
 Connect with me on my professional or personal networks to stay updated on my latest projects and professional endeavors.
