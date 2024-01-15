@@ -4,12 +4,13 @@
 Hello! I'm PJ Rasmussen, a dedicated MERN stack developer with a love for building scalable and efficient web applications. My proficiencies lie in using MongoDB, Mongoose, Express.js, React.js, and Node.js to deliver exceptional user experiences, with a strong focus on front-end development. I'm currently expanding my skill set to include Python and AWS, aiming to enhance my ability to create more robust and versatile applications.
 
 ## Contributions
-I am actively involved in contributing to various projects. Below are some of the projects I've worked on. Feel free to explore these repositories and see my contributions in action.
+I am actively involved in contributing to various projects. Below are some of the projects I've worked on & contributed to, a great mix of my front-end and back-end skills. Feel free to explore these repositories and see my contributions in action.
 <table>
   <tr>
     <th><a href="https://github.com/tmorgan-dev/theWeb">theWeb</a></th>
     <th><a href="https://github.com/whats-a-pj/Mind-Mapper">MindMapper</a></th>
     <th><a href="https://github.com/itsmenickfromschool/animalsWow02">Animals, Wow!</a></th>
+    <th><a href="https://github.com/EsotericZ/PSZReviews">PS Game Reviews</a></th>
   </tr>
   <tr>
     <td>
@@ -22,9 +23,14 @@ I am actively involved in contributing to various projects. Below are some of th
         <img src="https://github.com/whats-a-pj/Mind-Mapper/blob/main/public/css/assets/Brain.png" width="100px;" alt="Brain Thought Bubble"/>
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://github.com/itsmenickfromschool/animalsWow02">
         <img src="https://github.com/whats-a-pj/whats-a-pj/assets/132323565/5a4872c5-745e-475b-9bc2-5e76a566530e" width="75px;" alt="Paw Prints"/>
+      </a>
+    </td>
+        <td align="center">
+      <a href="https://github.com/EsotericZ/PSZReviews">
+        <img src="https://github.com/EsotericZ/PSZReviews/blob/main/public/psn.png" width="75px;" alt="PlayStation Logo"/>
       </a>
     </td>
   </tr>
