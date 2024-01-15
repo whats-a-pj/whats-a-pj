@@ -1,5 +1,3 @@
-# PJ Rasmussen
-
 ## Skills and Technologies
 Hello! I'm PJ Rasmussen, a dedicated MERN stack developer with a love for building scalable and efficient web applications. My proficiencies lie in using MongoDB, Mongoose, Express.js, React.js, and Node.js to deliver exceptional user experiences, with a strong focus on front-end development. I'm currently expanding my skill set to include Python and AWS, aiming to enhance my ability to create more robust and versatile applications.
 
