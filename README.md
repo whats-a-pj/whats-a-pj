@@ -38,9 +38,9 @@ I am actively involved in contributing to various projects. Below are some of th
 I have gathered substantial experience working on numerous web development projects, specifically focusing on the MERN stack. My journey in this field has been marked by continuous learning and application of the latest technologies in real-world scenarios, I have previous experience dabbling in front-end technologies dating back to 2018. In terms of education, I hold a certificate in Full-Stack Web Development from the University of Utah/EdX2U Bootcamp, where I honed my skills in software development and web technologies.
 
 ## Socials
-Connect with me on my professional networks to stay updated on my latest projects and professional endeavors.
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/p-j-rasmussen-57123b1ab)
-- Instagram: [Your Twitter Profile](https://www.instagram.com/believe.in.peebs/?igshid=d2QyeHZscGdpaGJk)
+Connect with me on my professional or personal networks to stay updated on my latest projects and professional endeavors.
+- LinkedIn: [P.J. Rasmussen](https://www.linkedin.com/in/p-j-rasmussen-57123b1ab)
+- Instagram: [@believe.in.peebs](https://www.instagram.com/believe.in.peebs/?igshid=d2QyeHZscGdpaGJk)
 - Personal Website: [Portfolio Site](https://pj-rasmussen.netlify.app)
 
 If you find my profile interesting or have questions regarding a specific repository- please feel free to reach out to me via the contact form on my [Portfolio Site](https://pj-rasmussen.netlify.app) or [LinkedIn](https://www.linkedin.com/in/p-j-rasmussen-57123b1ab) I'd love to chat! 💞️ 
